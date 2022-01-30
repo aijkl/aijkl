@@ -1,16 +1,13 @@
-### Hi there 👋
-
+![aijkl's GitHub stats](https://github-readme-stats.vercel.app/api?username=aijkl&hide_title=true&count_private=true&theme=nightowl&show_icons=true)  
 <!--
-**aijkl/aijkl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aijkl&hide_title=true&layout=compact&theme=nightowl)
+
+**Language**  
+<!---->
+![CSharp](https://img.shields.io/badge/csharp-021627?style=for-the-badge&logo=csharp&logoColor=61DAFB)
+![Sqlite](https://img.shields.io/badge/sqlite-021627?style=for-the-badge&logo=sqlite&logoColor=61DAFB)
+![Html5](https://img.shields.io/badge/html5-021627?style=for-the-badge&logo=html5&logoColor=61DAFB)
+![Css3](https://img.shields.io/badge/css3-021627?style=for-the-badge&logo=css3&logoColor=61DAFB)
+![Js](https://img.shields.io/badge/js-021627?style=for-the-badge&logo=javascript&logoColor=61DAFB)
+![UdonSharp](https://img.shields.io/badge/udonsharp-021627?style=for-the-badge&logo=udonsharp&logoColor=61DAFB)
